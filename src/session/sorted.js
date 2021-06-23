@@ -1,5 +1,5 @@
-module.exports = (reviews) => {
-  let response = reviews;
+module.exports = (filteredReviews) => {
+  let response = filteredReviews;
 
   // Sort reviews showing the most recently updated review last
 
