@@ -2183,7 +2183,7 @@
           "isAutomatable": false,
           "updatedAt": null,
           "updatedBy": null,
-          "taskCount": 21,
+          "taskCount": 0,
           "userByAssignedTo": null,
           "lists": {
             "nodes": []
@@ -2399,7 +2399,7 @@
           "isAutomatable": false,
           "updatedAt": null,
           "updatedBy": null,
-          "taskCount": 352,
+          "taskCount": 0,
           "userByAssignedTo": null,
           "lists": {
             "nodes": []
@@ -2561,7 +2561,7 @@
           "isAutomatable": false,
           "updatedAt": null,
           "updatedBy": null,
-          "taskCount": 216,
+          "taskCount": 0,
           "userByAssignedTo": null,
           "lists": {
             "nodes": []
