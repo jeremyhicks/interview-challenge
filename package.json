@@ -1,7 +1,7 @@
 {
-  "name": "coding-interview",
+  "name": "travis-bretton",
   "version": "1.0.0",
-  "description": "Coding challenge for interview candidates",
+  "description": "",
   "main": "src/index.js",
   "scripts": {
     "start": "nodemon src/index.js"
