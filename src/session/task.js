@@ -1,9 +1,8 @@
 module.exports = (sortedReviews) => {
   let response = sortedReviews;
 
-  // Pull out all the task codes and combine them into a single list
+  // Return a flat array of all task codes
 
-  // ...Task logic here
-
+  // response will look like ["nbf8", "nbf19", ...]
   return response;
 };

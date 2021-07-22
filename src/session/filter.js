@@ -1,10 +1,9 @@
-module.exports = (nodes) => {
-  // nodes === workManifestByLoanId.reviews.nodes
-  let response = nodes;
+module.exports = (unfilteredReviews) => {
+  // unfilteredReviews === workManifestByLoanId.reviews.nodes
+  let filteredReviews = unfilteredReviews;
 
-  // Filter the list down to just reviews that contain tasks
+  // Filter to reviews that contain tasks
 
-  // ... Filter logic here
-
-  return response;
+  // return filtered reviews
+  return filteredReviews;
 };
